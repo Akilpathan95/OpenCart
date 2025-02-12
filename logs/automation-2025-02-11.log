@@ -1,0 +1,49 @@
+14:05:24.022 [main] INFO  testCases.TC003_LoginDDT - **** Ending TC003 LoginDDT  ****
+14:08:18.540 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+14:08:18.750 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+14:08:19.575 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+14:08:21.003 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+14:08:21.003 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+14:09:35.369 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+14:09:35.673 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+14:09:37.631 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+14:09:39.763 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+14:09:39.763 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+14:09:49.553 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002 Login  ****
+14:09:49.686 [main] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+14:09:50.592 [main] INFO  testCases.TC002_LoginTest - **** Click on My Login  ****
+14:11:15.734 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002 Login  ****
+14:11:15.925 [main] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+14:11:16.238 [main] INFO  testCases.TC002_LoginTest - **** Click on My Login  ****
+14:11:17.612 [main] INFO  testCases.TC002_LoginTest - **** Finished Tc_002  ****
+19:27:55.205 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+19:27:56.081 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+19:27:56.745 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+19:27:59.463 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+19:27:59.463 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+12:02:48.813 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+12:02:48.973 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+12:02:49.539 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+12:02:51.176 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+12:02:51.176 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+12:03:31.013 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+12:03:31.520 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+12:03:31.904 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+12:03:33.370 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+12:03:33.370 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+15:37:41.291 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+15:37:41.770 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+15:37:42.505 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+15:37:45.736 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+15:37:45.736 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+15:38:43.561 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+15:38:44.019 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+15:38:44.734 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+15:38:47.275 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+15:38:47.275 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+15:40:06.520 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+15:40:07.040 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+15:40:07.940 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+15:40:10.623 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+15:40:10.623 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+15:40:18.620 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****

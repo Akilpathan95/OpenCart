@@ -1,0 +1,46 @@
+18:20:36.006 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+18:20:36.214 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+18:20:36.216 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+18:20:36.672 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+18:20:38.687 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+18:20:38.688 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+18:35:02.790 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+18:35:02.943 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+18:35:03.536 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+18:35:04.789 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+18:35:04.789 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+19:08:52.425 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+19:08:52.862 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+19:08:53.372 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+19:08:55.741 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+19:08:55.741 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+19:10:41.615 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+19:10:42.197 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+19:10:43.494 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+19:10:46.176 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+19:10:46.177 [main] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+19:10:50.289 [main] INFO  testCases.TC002_LoginTest - **** Starting TC002 Login  ****
+19:10:50.814 [main] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+19:10:51.274 [main] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+19:11:49.416 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+19:11:49.812 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+19:11:49.969 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+19:11:50.301 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+19:11:50.800 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+19:11:51.259 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+19:11:53.740 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+19:11:53.740 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+19:11:54.291 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+19:11:54.291 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+19:11:57.212 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Starting TC001 AccountRegistration  ****
+19:11:57.577 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Click on Account link  ****
+19:11:58.864 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Click to register link  ****
+19:11:59.216 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Starting TC002 Login  ****
+19:12:00.225 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+19:12:00.986 [TestNG-tests-1] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+19:12:01.361 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Starting TC002 Login  ****
+19:12:01.806 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Form submission complete  ****
+19:12:01.807 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - **** Validation confirmation message  ****
+19:12:01.849 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+19:12:02.391 [TestNG-tests-3] INFO  testCases.TC002_LoginTest - **** Click on My Account  ****
+19:12:12.404 [TestNG-tests-2] INFO  testCases.TC002_LoginTest - **** Starting TC002 Login  ****
